@@ -17,7 +17,6 @@ This repository contains supporting materials for **From Design Choices to Engin
 | File | Contents |
 | --- | --- |
 | [downstream_repository_names.csv](data/downstream_repository_names.csv) | 73,014 framework/repository pairs, with columns `framework` and `repository`. Repository identifiers use the format `owner/repository`. |
-| [downstream_repository_names_deduplicated.txt](data/downstream_repository_names_deduplicated.txt) | 65,010 distinct repository identifiers after exact deduplication across framework ecosystems, one identifier per line. |
 | [repository_counts.csv](data/repository_counts.csv) | Repository counts for each of the ten framework ecosystems. |
 
 | Framework | Repository records |
