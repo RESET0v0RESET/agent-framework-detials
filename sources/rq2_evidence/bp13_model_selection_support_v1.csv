@@ -1,0 +1,11 @@
+Framework,Direct Provider Integrations,Gateway / Compatibility Layer,Configuration Flexibility,Support Score,Official Sources,Rationale
+LangChain,Strong,Strong,Strong,3,"https://docs.langchain.com/oss/python/langchain/models; https://docs.langchain.com/oss/python/integrations/providers/overview","Broad official provider integrations and unified model interface."
+LangGraph,Strong,Strong,Strong,3,"https://docs.langchain.com/oss/python/langchain/models; https://docs.langchain.com/oss/python/langgraph/overview","Uses LangChain model interface; model support should be inherited from LangChain when used in LangGraph."
+CrewAI,Strong,Strong,Strong,3,"https://docs.crewai.com/en/concepts/llms","Official LLM docs support multiple providers and LiteLLM-style configuration."
+LlamaIndex,Strong,Strong,Strong,3,"https://developers.llamaindex.ai/python/framework/module_guides/models/llms/","Broad LLM integration module and provider configuration."
+AutoGen,Moderate,Moderate,Strong,2,"https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tutorial/models.html","ModelClient/config-list based model configuration is documented, but provider coverage should be counted separately from framework abstraction."
+Haystack,Moderate,Moderate,Moderate,2,"https://docs.haystack.deepset.ai/docs/generators","Provider-specific generator components are documented; support is component-oriented."
+Semantic Kernel,Moderate,Moderate,Strong,2,"https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/","AI service connectors are official, especially for enterprise providers, but provider breadth is narrower than LangChain/LlamaIndex/CrewAI."
+CAMEL,Moderate,Moderate,Moderate,2,"https://docs.camel-ai.org/key_modules/models","Model platform abstraction is documented; provider breadth needs source-level counting for exact values."
+MetaGPT,Limited,Limited,Moderate,1,"https://docs.deepwisdom.ai/main/en/guide/get_started/configuration.html","Model support is configuration-driven, but official provider breadth is narrower or less explicit."
+AutoGPT,Limited,Limited,Limited,1,"https://agpt.co/docs/classic; https://github.com/Significant-Gravitas/AutoGPT","Classic configuration supports model selection, but stable official provider documentation is incomplete."

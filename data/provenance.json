@@ -1,0 +1,11 @@
+{
+  "export_date": "2026-11-05",
+  "source_file": "/home/zhaiyibo/zyb/rq3_static_repro/results/d10_monitoring_precise_full_20260622/d10_monitoring_repo_results.csv",
+  "source_sha256": "c70147ecca1ebfc4976663196b3964f9c8afa7d67c1807a309291940082a7d59",
+  "source_mtime_utc": "2026-06-22T08:06:18.501715+00:00",
+  "framework_repository_observations": 73014,
+  "unique_repository_identifiers": 65010,
+  "scope": "Full downstream collection represented by the archived repository-level D10 results. This is not a reconstructed 15,042-observation RQ3 sample.",
+  "release_contents": "framework and full owner/repository identifiers only; no code snapshots or detector labels",
+  "url_verification": "No live GitHub existence or ownership checks were performed."
+}
