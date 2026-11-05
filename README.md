@@ -1,4 +1,4 @@
-# Agent Framework Study Materials
+# Agent Framework Details
 
 This repository contains supporting materials for **From Design Choices to Engineering Risks: A Large-Scale Empirical Study of Best Practices and Code Smells in Developer-Facing Open-Source Agent Frameworks**. It includes downstream repository identifiers, a framework-support scoring matrix, evidence sources, and scripts for extracting and analyzing agent-construction practices.
 
